@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Aircraft di_icing and washing department</string>
+    <string name="moikaVS">Мойка ВС</string>
+    <string name="di_icing">Di/Anti-icing</string>
+    <string name="forgot_password">Forgot my password</string>
+    <string name="tabel_nomer">Табельный номер</string>
+    <string name="password">Пароль</string>
+    <string name="enter">Enter</string>
 </resources>

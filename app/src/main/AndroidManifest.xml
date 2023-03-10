@@ -12,6 +12,18 @@
         android:theme="@style/Theme.AircraftDi_icingAndWashingDepartment"
         tools:targetApi="31">
         <activity
+            android:name=".MoikaAirkraft"
+            android:exported="false"
+            android:label="Мойка ВС"/>
+        <activity
+            android:name=".DiIcing"
+            android:exported="false"
+            android:label="ПОО"/>
+        <activity
+            android:name=".Menu"
+            android:exported="false"
+            android:label="Menu" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
